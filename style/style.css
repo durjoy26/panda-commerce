@@ -21,3 +21,24 @@
     font-size: 20px;
     font-weight: 600;
 }
+.watch{
+    background-color:#ffa500 ;
+    color:#fff;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.bag{
+    background-color: #da70d6;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.shoes{
+    background-color: #0000ff;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.img{
+    width: 100px;
+}
