@@ -86,3 +86,6 @@ footer{
     text-align: center;
     margin-bottom: 5px !important;
 }
+html {
+    scroll-behavior: smooth;
+}
