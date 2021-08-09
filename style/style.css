@@ -42,3 +42,47 @@
 .img{
     width: 100px;
 }
+.btn{
+    text-decoration: none;
+}
+.card{
+    box-shadow: 5px 5px 10px 10px lightgray;
+    border-radius: 10px;
+    border:none;
+    width: 30%;
+}
+.card:nth-child(2){
+    margin-right: 5%;
+    margin-left: 5%;
+}
+.card-body{
+    flex: 1 1 auto;
+}
+.subscribe{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.box{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.d-block{
+    width: 100%;
+}
+.box h3{
+    margin: 0;
+}
+.box p{
+    margin: 0;
+}
+.box button{
+    margin-bottom: 1px;
+}
+.box input{
+    border: none;
+    border-radius: 5px;
+}
+footer{
+    text-align: center;
+    margin-bottom: 5px !important;
+}
